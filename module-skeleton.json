@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-sales-orders-dart-mobile",
+  "capabilityKey": "liberusoftware/module-accounting-sales-orders",
+  "presentation": "dart-mobile",
+  "package": "module_accounting_sales_orders_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/accounting/nextjs/sales-orders.md",
+  "presentationPlan": "projects/accounting/features/sales-orders.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
